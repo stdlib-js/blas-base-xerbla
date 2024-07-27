@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/blas-base-xerbla",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Error handler for BLAS/LAPACK routines.",
   "license": "Apache-2.0",
   "author": {
@@ -40,7 +40,7 @@
   },
   "dependencies": {
     "@stdlib/blas-base-shared": "^0.0.1",
-    "@stdlib/napi-export": "^0.2.1",
+    "@stdlib/napi-export": "^0.2.2",
     "@stdlib/utils-library-manifest": "^0.2.1"
   },
   "devDependencies": {
