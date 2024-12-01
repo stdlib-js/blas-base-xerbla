@@ -41,7 +41,8 @@
   "dependencies": {
     "@stdlib/blas-base-shared": "^0.1.0",
     "@stdlib/napi-export": "^0.2.2",
-    "@stdlib/utils-library-manifest": "^0.2.2"
+    "@stdlib/utils-library-manifest": "^0.2.2",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/assert-is-browser": "^0.2.2",
